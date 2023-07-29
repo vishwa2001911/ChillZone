@@ -1,19 +1,18 @@
-# chill-flix
+#Project Title
+#IMDb Clone
 
-## Project setup
-```
-npm install
-```
+###Description
+This project is a clone of the IMDb website. It uses the TMDb API to fetch movie data and display it on the website. The website is built using Vue.js, HTML, CSS, Bootstrap, and JavaScript.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###Installation
+Clone the repository.
+Install the dependencies using npm install.
+Run the development server using npm run serve.
+Usage
+Open the website in your browser.
+Search for movies using the search bar.
+Click on a movie to view its details.
+##Credits
+TMDb API
+Vue.js
+Bootstrap
